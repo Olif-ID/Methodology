@@ -4,8 +4,8 @@
 
 Before mapping fragrant materials to urbit address space we established 4 guidlines pertaining to fragrance and the construction of a material library.
 
->
-1 - Establish a library with wide ranging representation of various odor categories 
+
+>1 - Establish a library with wide ranging representation of various odor categories 
 2 - Limit the material library to a be manageable for an enthusiest (~100 pcs)
 3 - Only use fragrant materials that can be regularly acuired (insist upon CAS#)
 4 - Only use Fragrant materials that have saftey documentation
