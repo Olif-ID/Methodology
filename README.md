@@ -6,9 +6,9 @@ Before mapping fragrant materials to urbit address space we established 4 guidli
 
 
 >1 - Establish a library with wide ranging representation of various odor categories 
-2 - Limit the material library to a be manageable for an enthusiest (~100 pcs)
-3 - Only use fragrant materials that can be regularly acuired (insist upon CAS#)
-4 - Only use Fragrant materials that have saftey documentation
+>2 - Limit the material library to a be manageable for an enthusiest (~100 pcs)
+>3 - Only use fragrant materials that can be regularly acuired (insist upon CAS#)
+>4 - Only use Fragrant materials that have saftey documentation
 
 Using these guidlines we created a material library of 96 ingredients divided into 16 odor groups. Our odor groups were prepared using two properties. First, oganization by similar olfactive properties; second, agreeability with neighboring odor group ingredients.
 
